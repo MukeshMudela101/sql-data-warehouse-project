@@ -169,5 +169,3 @@ Inside the `advance_analysis/` folder:
 MIT License — Free to use with attribution.
 
 ---
-✅ A Power BI dashboard outline to attach to this project
-Just say *"generate portfolio version"* or *"create BI dashboard section"* 🚀
